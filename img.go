@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/facethumbnail"
+	"github.com/abhinababasu/facethumbnail"
 )
 
 func main() {
