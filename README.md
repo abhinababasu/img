@@ -30,7 +30,15 @@ img -h
 
 Example below runs the generator with facedetection and verbose mode
 ```
-img -src .\test -dst c:\temp -face
+img -src c:\Users\abhin\OneDrive\Frame -dst c:\temp\img -ratio 9:16 -face -v
 ```
 
 You can skip the `-face` flag when running this tool for non-portrait albums like Landscapes
+
+## Sample
+
+| Image                               | Cropping 9:16                      | Cropping with face-detection       |
+| :---------------------------------: | :--------------------------------: | :--------------------------------: |
+| ![Portrait](./sample/portrait.JPG) | ![Crop](./sample/crop2.jpg) | ![Thumnail](./sample/crop1.JPG) |
+
+
