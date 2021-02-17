@@ -39,6 +39,6 @@ You can skip the `-face` flag when running this tool for non-portrait albums lik
 
 | Image                               | Cropping 9:16                      | Cropping with face-detection       |
 | :---------------------------------: | :--------------------------------: | :--------------------------------: |
-| ![Portrait](./sample/portrait.JPG) | ![Crop](./sample/crop2.jpg) | ![Thumnail](./sample/crop1.JPG) |
+| ![Portrait](./sample/portrait.JPG) | ![Crop](./sample/crop2.JPG) | ![Thumnail](./sample/crop1.JPG) |
 
 
